@@ -1,0 +1,25 @@
+import.java.util.Arrays;
+public class MainClass
+{
+Public Static Void Main(String args[]) throws Exception
+{
+int array[]={2 , 5 ,-2 ,6 , -3 , 8 ,0 ,-7 ,-9 ,4 }
+Arrays.sort(array);
+printArray("sorted array",array);
+int index =array.binarySearch(array,2);
+Sysrem.out.println("found@2"+index);
+}
+private static printArray(string message,int array())
+{
+System.out.println(message+":[length:"+array.length+"]");
+for(int i=0;i<array.length;i++)
+{
+if(1!=0)
+{
+System.out.print(",");
+}
+System.out.print(array[i]);
+}
+System.out.println();
+}
+}

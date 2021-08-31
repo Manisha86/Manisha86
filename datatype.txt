@@ -1,0 +1,19 @@
+import java.util.*;
+class Datattype
+{
+public static void main(String args[])
+{ 
+char a= 'G';
+int i =89;
+byte b =4 ;
+short s=56;
+double d=4.35545;
+float f=4.73334;
+System.out.println("char:"+a);
+System.out.println("int:"+i);
+System.out.println("byte:"+b);
+System.out.println("short:"+s);
+System.out.println("float:"+f);
+System.out.println("double:"+d);
+}
+}
