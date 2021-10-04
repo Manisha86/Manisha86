@@ -1,0 +1,19 @@
+[
+    
+    {
+        "item":"Dal",
+        "type":"veg"
+    },
+    {
+        "item":"Fish",
+        "type":"Non-veg"
+    },
+    {
+        "item":"Meat",
+        "type":"Non-veg"
+    },
+    {
+        "item":"Rice",
+        "type":"veg"
+    }
+]
